@@ -1,0 +1,5 @@
+desktop.ini
+.hintrc
+.env
+node_modules/
+.DS_Store
