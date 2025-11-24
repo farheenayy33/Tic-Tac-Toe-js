@@ -22,9 +22,12 @@ with your real link:
 - Responsive UI
 - Easy restart
 
-## Screenshot
+## Screenshots
 
--[Game Screenshot](assets/screenshot.png)
+![Screenshot 1](assets/playgame.png)
+![Screenshot 2](assets/winner.png)
+![Screenshot 3](assets/draw.png)
+
 
 ## Technologies
 
