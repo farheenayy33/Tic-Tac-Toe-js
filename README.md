@@ -22,15 +22,15 @@ with your real link:
 - Responsive UI
 - Easy restart
 
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
 ## Screenshots
 
 ![Screenshot 1](assets/playgame.png)
 ![Screenshot 2](assets/winner.png)
 ![Screenshot 3](assets/draw.png)
 
-
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
